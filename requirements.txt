@@ -1,0 +1,13 @@
+pytest
+requests
+pydantic
+jsonschema
+pytest-xdist
+selenium
+webdriver-manager
+python-dotenv
+pandas
+sqlalchemy
+allure-pytest
+ruff
+black
